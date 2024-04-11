@@ -28,7 +28,7 @@ repo contains all the code required during training in different modules
 
 Misclassified images
 <p align="center">
-    <img src="images/missclassified_images.PNG" alt="centered image" />
+    <img src="images/misclassified_images.PNG" alt="centered image" />
 </p>
 
 Misclassified images visualied using gradcam
